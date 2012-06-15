@@ -2,7 +2,7 @@ package com.cloudbees.mvntest.util;
 
 public class Math {
 
-    public static int add (int a, int b, int c) {
+    public static int add (int a, int b, int c, int d) {
 	return a + b;
     }
 
